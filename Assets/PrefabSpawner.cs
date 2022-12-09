@@ -40,9 +40,9 @@ public class PrefabSpawner : MonoBehaviour
             yield break;
         }
         prevRandIndex = randIndex;
-        yield return new WaitForSeconds(obstacleSpawnCooldown);
         while (isSpawning)
         {
+            yield return new WaitForSeconds(obstacleSpawnCooldown);
             GameObject spawnedGO = Instantiate(PrefabToSpawn[randIndex],spawningTransform,true);
         }
     }
