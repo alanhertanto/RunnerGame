@@ -565,17 +565,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PrefabToSpawn:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  - {fileID: 3483379141182117606, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
   prevRandIndex: 3
   beginRandIndex: 0
   obstacleSpawnCooldown: 0
   isSpawning: 0
-  spawningTransform: {fileID: 0}
+  spawningTransform: {fileID: 1750085497}
 --- !u!1 &1160234425
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,6 +682,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+--- !u!4 &1750085497 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5272022257624236022, guid: 27b7d559e4333d143ac5032109b56037, type: 3}
+  m_PrefabInstance: {fileID: 1750085496}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6817545685549700930
 PrefabInstance:
   m_ObjectHideFlags: 0

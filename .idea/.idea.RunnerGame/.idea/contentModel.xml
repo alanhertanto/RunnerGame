@@ -47,9 +47,20 @@
             <e p="Readme.txt" t="Include" />
           </e>
         </e>
-        <e p="PrefabSpawner.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="Character" t="Include">
+            <e p="CharacterStatBehaviour.cs" t="Include" />
+            <e p="IPlayerStats.cs" t="Include" />
+          </e>
+          <e p="Database" t="Include">
+            <e p="Scriptable" t="Include">
+              <e p="CharacterStatusScriptable.cs" t="Include" />
+            </e>
+          </e>
           <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Track" t="Include">
+            <e p="PrefabSpawner.cs" t="Include" />
+          </e>
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">

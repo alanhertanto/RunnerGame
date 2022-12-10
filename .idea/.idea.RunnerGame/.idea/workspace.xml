@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee34462-2dbf-4127-845b-0efd95f798de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RunnerGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RunnerGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RunnerGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RunnerGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PrefabSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PrefabSpawner.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Testing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Testing.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +17,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/PrefabSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Testing.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Database/Scriptable/CharacterStatusScriptable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/PrefabSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/IPlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Database/Scriptable/CharacterStatusScriptable.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670620472980</updated>
-      <workItem from="1670620477582" duration="2164000" />
+      <workItem from="1670620477582" duration="4997000" />
     </task>
     <servers />
   </component>
