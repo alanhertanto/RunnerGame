@@ -90,3 +90,5 @@ crashlytics-build.properties
 *.assets
 *.svg
 *.ico
+#Folder For Dimaz
+![Aa]ssets/DimazIgnoreable
